@@ -20,6 +20,7 @@
 <a href="https://www.facebook.com/tunganh207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tung anh ngo" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dawnbreaker207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tung anh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC5ApEv4rND-ksog1itXc8CA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dawnbreaker207" height="30" width="40" /></a>
+<a href="https://discord.gg/dawnbreaker207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dawnbreaker207" height="30" width="40" /></a>
 </p>
 
 
