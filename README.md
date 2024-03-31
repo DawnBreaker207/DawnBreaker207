@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ngô Tùng Anh</h1>
-<h3 align="center">A Frontend developer</h3>
+<h3 align="center">A Web Developer</h3>
 
 
 
