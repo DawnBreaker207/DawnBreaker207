@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawnbreaker207&label=Profile%20views&color=0e75b6&style=flat" alt="dawnbreaker207" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **JavaScript, TypeScript**
 
 - 👨‍💻 All of my projects are available at **[here](https://github.com/DawnBreaker207)**
 
