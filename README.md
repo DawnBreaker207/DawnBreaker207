@@ -1,6 +1,6 @@
 <img alt="GIF" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjh6MXpvdnJiNmlyOXM4dDNxZTk1MXl5MmZ5azVmaXdmNWdqamg4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="350px" height="230" />
 
-## Hello, I'm Ngo Tung Anh - A Web Developer
+## Hello, I'm Tung Anh - A Web Developer
 
 <!--- - 💻 Check out my blog at [dawn.dev](https://dawn.id.vn/) -->
 - 👨‍🎓 Student graduated from [FPT Polytechnic College.](https://caodang.fpt.edu.vn/)
