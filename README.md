@@ -1,108 +1,54 @@
+<img alt="GIF" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjh6MXpvdnJiNmlyOXM4dDNxZTk1MXl5MmZ5azVmaXdmNWdqamg4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="350px" height="230" />
 
-<h1 align="center">
-  Hi 👋, I'm Ngo Tung Anh
-</h1>
+## Hello, I'm Ngo Tung Anh - A Web Developer
 
-<h3 align="center">
-  A Web Developer
-</h3>
-
-
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dawnbreaker207&label=Profile%20views&color=0e75b6&style=flat" alt="dawnbreaker207" /> 
-</p>
-
-- 🌱 I’m currently learning **JavaScript, TypeScript**
-
-- 👨‍💻 All of my projects are available at **[here](https://github.com/DawnBreaker207)**
-
+<!--- - 💻 Check out my blog at [dawn.dev](https://dawn.id.vn/) -->
+- 👨‍🎓 Student graduated from [FPT Polytechnic College.](https://caodang.fpt.edu.vn/)
+- 👨🏻‍💻 I want to become a **Fullstack Developer**.
+- 🔭 I'm passionate about **Java**.
+- 🎨 My hobby are **Games** and **Music**.
 - ⚡ Fun fact **I am hard working**
 
 
+## 📫 Contact me via:
 
-<h2 align="left">
-  Connect with me:
-</h2>
+  [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:tunganhngo207.@gmail.com)&emsp;
+  [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tunganh207/)&emsp;
+  [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/tunganh207/)
 
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/dawnbreaker207/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tung anh ngo" height="30" width="40" />
-  </a>
+
+
+## :zap: GitHub Stats
+<p align="center">
+  <img height="180em" src='https://github-readme-stats-sigma-five.vercel.app/api?username=dawnbreaker207&show_icons=true&theme=tokyonight'>&emsp;
+  <img height="180em" src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dawnbreaker207&layout=compact&langs_count=14&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'> 
+  <img height="180em" src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DawnBreaker207&theme=aura_dark&utcOffset=7'> 
+  <img height="180em" src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DawnBreaker207&theme=aura_dark'> 
   
-  <a href="https://www.facebook.com/tunganh207" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tung anh ngo" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.instagram.com/dawnbreaker207/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tung anh" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UC5ApEv4rND-ksog1itXc8CA" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dawnbreaker207" height="30" width="40" />
-  </a>
-  
-  <a href="https://discord.com/users/660389229741867008" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dawnbreaker207" height="30" width="40" />
-  </a>
+ <!--- <img src='https://github.com/dawnbreaker207/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only'>&emsp; 
+  <img src='https://github.com/dawnbreaker207/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only'> -->
 </p>
 
 
-<h2 align="left">
-  Languages and Tools:
-</h2>
+## 🔧 Technologies & Tools
 
-<p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a> 
+<div align="left"> 
+  <code><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java"/></code>&nbsp;
+  <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/></code>&nbsp;
+  <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/></code>&nbsp; 
+  <code><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/></code>&nbsp;
+  <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/></code>&nbsp;  
+  <code><img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="springboot"/></code>&nbsp;
+  <code><img width="40" height="40" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular"/></code>&nbsp;
+  <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/></code>&nbsp;
+  <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="express"/></code>&nbsp;  
   
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  
- 
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  
- 
-  
-</p>
+</div>
 
+## 📈 My Activities
 
-
-<h3 align="left">
-    My Status:
-</h3>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DawnBreaker207&theme=aura_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DawnBreaker207&theme=aura_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DawnBreaker207&theme=aura_dark&utcOffset=7)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dawnbreaker207/dawnbreaker207/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dawnbreaker207/dawnbreaker207/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dawnbreaker207/dawnbreaker207/output/github-contribution-grid-snake.svg">
+</picture>
