@@ -25,8 +25,8 @@
   <img height="180em" src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DawnBreaker207&theme=aura_dark&utcOffset=7'> 
   <img height="180em" src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DawnBreaker207&theme=aura_dark'> 
   
- <!--- <img src='https://github.com/dawnbreaker207/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only'>&emsp; 
-  <img src='https://github.com/dawnbreaker207/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only'> -->
+  <img src='https://github.com/DawnBreaker207/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only'>&emsp; 
+  <img src='https://github.com/DawnBreaker207/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only'> 
 </p>
 
 
@@ -48,7 +48,7 @@
 ## 📈 My Activities
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dawnbreaker207/dawnbreaker207/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dawnbreaker207/dawnbreaker207/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dawnbreaker207/dawnbreaker207/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/github-contribution-grid-snake.svg">
 </picture>
