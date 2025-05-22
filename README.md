@@ -6,8 +6,8 @@
 <!--- - 👨‍🎓 Student graduated from [FPT Polytechnic College.](https://caodang.fpt.edu.vn/) -->
 <!---  - 👨🏻‍💻 I want to become a **Fullstack Developer**. -->
 <!--- - 🔭 I'm passionate about **Java**. -->
-- 🎨 My hobby are **Games** and **Music**.
-- ⚡ Fun fact **I am hard working**
+<!--- - 🎨 My hobby are **Games** and **Music**. -->
+<!--- - ⚡ Fun fact **I am hard working** -->
 
 
 ## 📫 Contact me via:
@@ -31,6 +31,14 @@
   <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="express"/></code>&nbsp;  
 </div>
 
+<details>
+
+<summary>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> More information about me
+  <img align="center" src="https://komarev.com/ghpvc/?username=dawnbreaker207&label=Profile%20views&color=0e75b6&style=flat" alt="dawnbreaker207" />👩‍💻
+</summary>
+
+
 ## :zap: GitHub Stats
 <p align="center">
  <!---
@@ -42,9 +50,7 @@
   <img src='https://github.com/DawnBreaker207/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only'>&emsp; 
   <img src='https://github.com/DawnBreaker207/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only'> 
 </p>
-
-
-
+  
 ## 📈 My Activities
 
 <picture>
@@ -52,3 +58,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/github-contribution-grid-snake.svg">
 </picture>
+</details>
