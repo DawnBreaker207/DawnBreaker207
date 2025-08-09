@@ -2,13 +2,8 @@
 
 ## Hello, I'm Tung Anh - A Web Developer
 
-<!--- - 💻 Check out my blog at [dawn.dev](https://dawn.id.vn/) -->
-<!--- - 👨‍🎓 Student graduated from [FPT Polytechnic College.](https://caodang.fpt.edu.vn/) -->
-<!---  - 👨🏻‍💻 I want to become a **Fullstack Developer**. -->
-<!--- - 🔭 I'm passionate about **Java**. -->
-<!--- - 🎨 My hobby are **Games** and **Music**. -->
-<!--- - ⚡ Fun fact **I am hard working** -->
-
+ - 💻 Check out my blog at [dawn.dev](https://dawn.id.vn/) 
+ - 🔭 I'm passionate about **Java**.
 
 ## 📫 Contact me via:
 
@@ -39,6 +34,21 @@
 </summary>
 
 
+## 📈 My Activities
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/github-contribution-grid-snake.svg">
+</picture>
+
+## GitHub Streak
+ <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DawnBreaker207's streak" src="https://streak-stats.demolab.com?user=DawnBreaker207&theme=neon-palenight&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+    </a>
+  </p>
+  
 ## :zap: GitHub Stats
 <p align="center">
  <!---
@@ -53,11 +63,5 @@
   <img src='https://github.com/DawnBreaker207/github-stats/blob/master/generated/languages.svg#gh-light-mode-only'> 
 </p>
   
-## 📈 My Activities
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/github-contribution-grid-snake.svg">
-</picture>
+<p><a href="dawn.id.vn"><img src="https://github.com/dawnbreaker207/dawnbreaker207/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@Dawnbreaker207"></a></p>
 </details>
