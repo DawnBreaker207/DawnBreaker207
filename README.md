@@ -47,8 +47,10 @@
   <img height="180em" src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DawnBreaker207&theme=aura_dark&utcOffset=7'> 
   <img height="180em" src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DawnBreaker207&theme=aura_dark'> 
   -->
-  <img src='https://github.com/DawnBreaker207/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only'>&emsp; 
+  <img src='https://raw.githubusercontent.com/DawnBreaker207/github-stats/master/generated/overview.svg#gh-dark-mode-only'>&emsp; 
   <img src='https://github.com/DawnBreaker207/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only'> 
+  <img src='https://raw.githubusercontent.com/DawnBreaker207/github-stats/master/generated/overview.svg#gh-light-mode-only'>&emsp; 
+  <img src='https://github.com/DawnBreaker207/github-stats/blob/master/generated/languages.svg#gh-light-mode-only'> 
 </p>
   
 ## 📈 My Activities
