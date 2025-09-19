@@ -3,7 +3,7 @@
 
 ## Hello, I'm Tung Anh - A Web Developer
 
- - 💻 More about me in [dawn.dev](https://dawn.id.vn/) 
+ - 💻 More about me in [here](https://dawn-blog.vercel.app)
  - 🔭 I'm passionate about **Java**.
 
 ## 📫 Contact me via:
