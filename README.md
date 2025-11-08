@@ -50,15 +50,15 @@
 ## 📈 My Activities
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/main/dist/grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/main/dist/grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/main/dist/grid-snake.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/pacman-contribution-graph-light.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/pacman-contribution-graph.svg">
+  <img alt="github contribution pacman graph animation" src="https://raw.githubusercontent.com/DawnBreaker207/DawnBreaker207/output/pacman-contribution-graph.svg">
 </picture>
 
 ## 🔥 GitHub Streak
