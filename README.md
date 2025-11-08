@@ -27,15 +27,14 @@
 <br />
 
 #
-<!--- 
- <details> 
 
- <summary>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> More about me
-  <img align="center" src="https://komarev.com/ghpvc/?username=dawnbreaker207&label=Profile%20views&color=0e75b6&style=flat" alt="dawnbreaker207" />👩‍💻
- </summary> 
- </details>
--->
+<details> 
+
+<summary>
+ <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> More about me
+ <img align="center" src="https://komarev.com/ghpvc/?username=dawnbreaker207&label=Profile%20views&color=0e75b6&style=flat" alt="dawnbreaker207" />👩‍💻
+</summary> 
+
 
 
 ## 📈 My Activities
@@ -52,21 +51,26 @@
     </a>
   </p>
   
+## 🏆 Github Trophies
+<p align="center">
+ <a>
+  <img src="https://github-profile-trophy.vercel.app/?username=DawnBreaker207&theme=discord&column=5&margin-w=15&margin-h=15&no-frame=true" alt="DawnBreaker207"/>
+ </a>
+</p>
+
 ## :zap: GitHub Stats
 <p align="center">
- <!---
-  <img height="180em" src='https://github-readme-stats-sigma-five.vercel.app/api?username=dawnbreaker207&show_icons=true&theme=tokyonight'>&emsp;
-  <img height="180em" src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dawnbreaker207&layout=compact&langs_count=14&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>
-  <img height="180em" src='http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DawnBreaker207&theme=aura_dark&utcOffset=7'> 
-  <img height="180em" src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DawnBreaker207&theme=aura_dark'> 
-  -->
+  <!-- <img height="180em" src='https://github-readme-stats-sigma-five.vercel.app/api?username=dawnbreaker207&show_icons=true&theme=tokyonight'>&emsp; -->
+  <!-- <img height="180em" src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dawnbreaker207&layout=compact&langs_count=14&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'> -->
   <img src='https://raw.githubusercontent.com/DawnBreaker207/github-stats/master/generated/overview.svg#gh-dark-mode-only'>&emsp; 
   <img src='https://github.com/DawnBreaker207/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only'> 
   <img src='https://raw.githubusercontent.com/DawnBreaker207/github-stats/master/generated/overview.svg#gh-light-mode-only'>&emsp; 
   <img src='https://github.com/DawnBreaker207/github-stats/blob/master/generated/languages.svg#gh-light-mode-only'> 
 </p>
+
+
   
 <p align="center">
- <a href="dawn.id.vn"><img src="https://github.com/dawnbreaker207/dawnbreaker207/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@Dawnbreaker207"></a>
+ <a href="dawn-blog.vercel.app"><img src="https://github.com/dawnbreaker207/dawnbreaker207/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@Dawnbreaker207"></a>
 </p>
-
+ </details>
