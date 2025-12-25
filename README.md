@@ -64,7 +64,7 @@
 ## 🔥 GitHub Streak
  <p align"center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DawnBreaker207's streak" src="https://streak-stats.demolab.com?user=DawnBreaker207&theme=neon-palenight&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DawnBreaker207's streak" src="https://github-readme-streak-stats-three-eta-14.vercel.app?user=DawnBreaker207&theme=neon-palenight&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
     </a>
   </p>
   
