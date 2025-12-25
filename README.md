@@ -71,7 +71,7 @@
 ## 🏆 Github Trophies
 <p align="center">
  <a>
-  <img src="https://github-profile-trophy.vercel.app/?username=DawnBreaker207&theme=discord&column=5&margin-w=15&margin-h=15&no-frame=true" alt="DawnBreaker207"/>
+  <img src="https://github-profile-trophy-xi-flax.vercel.app/?username=DawnBreaker207&theme=discord&column=5&margin-w=15&margin-h=15&no-frame=true" alt="DawnBreaker207"/>
  </a>
 </p>
 
