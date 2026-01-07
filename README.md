@@ -84,11 +84,11 @@
   height="180em" 
   src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dawnbreaker207&layout=compact&langs_count=14&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>&emsp;  
   <img 
-   src='https://raw.githubusercontent.com/DawnBreaker207/github-stats/master/generated/overview.svg#gh-dark-mode-only'>&emsp; 
+   src='https://github.com/DawnBreaker207/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only'>&emsp; 
   <img 
    src='https://github.com/DawnBreaker207/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only'>&emsp;  
   <img 
-   src='https://raw.githubusercontent.com/DawnBreaker207/github-stats/master/generated/overview.svg#gh-light-mode-only'>&emsp; 
+   src='https://github.com/DawnBreaker207/github-stats/blob/master/generated/languages.svg#gh-light-mode-only'>&emsp; 
   <img 
    src='https://github.com/DawnBreaker207/github-stats/blob/master/generated/languages.svg#gh-light-mode-only'>&emsp;  
 </p>
