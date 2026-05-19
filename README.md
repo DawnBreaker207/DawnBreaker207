@@ -8,7 +8,7 @@
  />
 
 ## Hello, I'm Tung Anh - A Web Developer
- - 💻 More about me in [here](dawn.io.vn)
+ - 💻 More about me in [here](https://dawn.io.vn)
  - 🔭 I'm passionate about **Java**.
 
 ## 📫 Contact me via:
