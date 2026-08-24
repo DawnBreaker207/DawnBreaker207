@@ -80,10 +80,10 @@
 <p align="center">
  <img 
   height="180em" 
-  src='https://github-readme-stats-sigma-five.vercel.app/api?username=dawnbreaker207&show_icons=true&theme=tokyonight'>&emsp;
+  src='https://github-stats-extended.vercel.app/api?username=dawnbreaker207&show_icons=true&theme=tokyonight'>&emsp;
  <img 
   height="180em" 
-  src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dawnbreaker207&layout=compact&langs_count=14&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>&emsp;  
+  src='https://github-stats-extended.vercel.app/api/top-langs/?username=dawnbreaker207&layout=compact&langs_count=14&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=3ABCAD&bg_color=1A1B27'>&emsp;  
   <img 
    src='https://github.com/DawnBreaker207/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only'>&emsp; 
   <img 
